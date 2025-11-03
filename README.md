@@ -9,8 +9,6 @@
 
 **An intelligent web application that revolutionizes travel planning through AI-powered personalization and real-time data integration.**
 
-[Live Demo](#) • [Report Bug](https://github.com/PrathameshBhosale01/AI-Powered-Tour-Organizer/issues) • [Request Feature](https://github.com/PrathameshBhosale01/AI-Powered-Tour-Organizer/issues)
-
 </div>
 
 ---
@@ -28,10 +26,8 @@
 - [Project Structure](#-project-structure)
 - [API Integrations](#-api-integrations)
 - [Screenshots](#-screenshots)
-- [Roadmap](#-roadmap)
 - [Contributing](#-contributing)
 - [License](#-license)
-- [Contact](#-contact)
 - [Acknowledgments](#-acknowledgments)
 
 ---
@@ -338,8 +334,11 @@ AI-Powered-Tour-Organizer/
 
 ### Landing Page
 
+
 <img width="855" height="780" alt="Screenshot 2025-11-03 133805" src="https://github.com/user-attachments/assets/e1e86611-9269-407f-a9e1-392d5803467d" />
-<img width="867" height="830" alt="Screenshot 2025-11-03 133216" src="https://github.com/user-attachments/assets/b6f0a402-4f45-4256-9083-cd1df0e21619" />
+
+<img width="867" height="830" alt="Screenshot 2025-11-03 133216" src="https://github.com/user-attachments/assets/f7eff1da-86e9-424e-a1b4-90948d33e12d" />
+
 
 *Modern, engaging landing page with call-to-action*
 
@@ -348,38 +347,6 @@ AI-Powered-Tour-Organizer/
 <img width="1914" height="866" alt="Screenshot 2025-11-03 134520" src="https://github.com/user-attachments/assets/969a9243-4062-4162-b67e-881aa0895202" />
 
 *User dashboard showing saved trips and quick actions*
-
----
-
-## 🗺️ Roadmap
-
-### Phase 1: Core Features ✅
-- [x] User authentication and profile management
-- [x] AI-powered itinerary generation
-- [x] Trip CRUD operations
-- [x] Blog and community features
-- [x] Image upload functionality
-
-### Phase 2: Enhanced Features 🚧
-- [ ] Voice-based trip planning
-- [ ] Direct booking integration (flights, hotels)
-- [ ] Social sharing capabilities
-- [ ] Mobile app (React Native)
-- [ ] AR/VR destination previews
-
-### Phase 3: Advanced AI 🔮
-- [ ] Predictive travel demand forecasting
-- [ ] Sentiment analysis for reviews
-- [ ] Multi-user collaborative trip planning
-- [ ] Real-time itinerary adjustment based on events
-- [ ] AI travel companion chatbot
-
-### Phase 4: Business Features 💼
-- [ ] Travel agency partnerships
-- [ ] Monetization through affiliates
-- [ ] Premium subscription plans
-- [ ] Analytics dashboard for users
-- [ ] API for third-party integrations
 
 ---
 
@@ -420,15 +387,6 @@ Distributed under the MIT License. See `LICENSE` file for more information.
 
 ---
 
-## 📧 Contact
-
-**Prathamesh Bhosale**
-
-- GitHub: [@PrathameshBhosale01](https://github.com/PrathameshBhosale01)
-- Project Link: [AI-Powered Tour Organizer](https://github.com/PrathameshBhosale01/AI-Powered-Tour-Organizer)
-
----
-
 ## 🙏 Acknowledgments
 
 I extend my sincere gratitude to:
@@ -438,15 +396,6 @@ I extend my sincere gratitude to:
 - **Cloudinary** - For image management solutions
 - **shadcn/ui** - For beautiful UI components
 - **The Open Source Community** - For amazing libraries and tools
-
----
-
-## 📊 Project Statistics
-
-![GitHub stars](https://img.shields.io/github/stars/PrathameshBhosale01/AI-Powered-Tour-Organizer?style=social)
-![GitHub forks](https://img.shields.io/github/forks/PrathameshBhosale01/AI-Powered-Tour-Organizer?style=social)
-![GitHub issues](https://img.shields.io/github/issues/PrathameshBhosale01/AI-Powered-Tour-Organizer)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/PrathameshBhosale01/AI-Powered-Tour-Organizer)
 
 ---
 
